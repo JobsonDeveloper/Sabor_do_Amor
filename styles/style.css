@@ -73,3 +73,9 @@ footer h6 {
         height: 280px;
     }
 }
+
+@media (max-width: 991px) {
+    .element_margin {
+        margin-top: 15px;
+    }
+}
