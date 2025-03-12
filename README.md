@@ -1,4 +1,3 @@
-### Lista de tarefas
 [Veja o site](https://sabor-do-amor.vercel.app/)
 
 ### Ferramentas utiliizadas:
